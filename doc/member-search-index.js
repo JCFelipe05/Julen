@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"Julenpkg","c":"Julen.Empleat","l":"Empleat(String, String, double)","u":"%3Cinit%3E(java.lang.String,java.lang.String,double)"},{"p":"Julenpkg","c":"Julen","l":"Julen()","u":"%3Cinit%3E()"},{"p":"Julenpkg","c":"Julen.Empleat","l":"pujadaSou(double)"}];updateSearchResults();
